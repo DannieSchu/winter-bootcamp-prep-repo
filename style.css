@@ -1,0 +1,40 @@
+body {
+    background-color: beige;
+}
+
+h2 {
+    color: darkolivegreen;
+    font-size: 30px;
+    font-style: italic;
+}
+
+li {
+    color: dodgerblue;
+}
+
+#special {
+    color: purple;
+}
+* {
+    box-sizing: border-box;
+}
+
+.square {
+    height: 250 px;
+    width: 100 px;
+    border-radius: 15px;
+    margin: 0 auto;
+    text-align: center;
+    margin: 10;
+    padding: 20 px;
+}
+#cool-square {
+    background: lightcoral;
+}
+#uncool-square {
+    background: darkslateblue;
+}
+
+.cool {
+    color: steelblue;
+}
